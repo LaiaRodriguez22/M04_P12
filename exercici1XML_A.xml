@@ -1,0 +1,32 @@
+<students>
+  <student 1 Comunitat Autonoma="Islas Canarias">
+    <name>Juan Daniel</name>
+    <surname>Aguilar </surname>
+    <email>machokke@gmail.com</email>
+    <DNI>56781234A</DNI>
+  </student 1>
+  <student 2 Comunitat Autonoma="Catalunya">
+    <name>Marina</name>
+    <surname>Rodr&#237;guez</surname>
+    <email>pekerodri90@gmail.com</email>
+    <DNI>12345678Z</DNI>
+  </student 2>
+  <student 3 Comunitat Autonoma="Extremadura">
+    <name>Laia</name>
+    <surname>Rodr&#237;guez</surname>
+    <email>lrodrigu22@balmes.net</email>
+    <DNI>42345678W</DNI>
+  </student 3>
+  <student 4 Comunitat Autonoma="Andalucia">
+    <name>Joaqu&#237;n Javier</name>
+    <surname>Rodr&#237;guez</surname>
+    <email>joaquimpintor@gmail.com</email>
+    <DNI>43216249W</DNI>
+  </student 4>
+  <student 5 Comunitat Autonoma="Pixapilandia">
+    <name>Alex</name>
+    <surname>Navarro</surname>
+    <email>anavarr22@balmes.net</email>
+    <DNI>63456789B</DNI>
+  </student 5>
+</students>
