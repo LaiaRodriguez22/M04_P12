@@ -10,4 +10,6 @@ print(exercici1_A.creaXML())
 
 #INTEGRANT B - ALEX NAVARRO RODRIGUEZ
 print(exercici1_B.creaJSON())
+print(exercici1_B.leeJSON())
+
 
